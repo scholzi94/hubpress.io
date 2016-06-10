@@ -2,3 +2,5 @@
 :hp-tags: Mac OSX
 
 Mittlerweile haben sich unzählige Passwörter für unterschiedlichste Dienste und Geräte angehäuft, wäre es da nicht schön das ein oder andere loszuwerden? Während Apple bei seinen iOS-Geräten schon auf Touch ID setzt, müssen Mac-Nutzer noch mühselig ein Passwort eingeben. Es gibt lediglich eine unsichere Alternative, die wir dir dennoch nicht vorenthalten wollen und zeigen dir, wie du dich automatisch am Mac einloggen kannst.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9a4lTxv8T1g" frameborder="0" allowfullscreen></iframe>
